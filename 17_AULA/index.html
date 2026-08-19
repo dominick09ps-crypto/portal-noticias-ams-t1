@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criando Menu</title>
+
+    <style>
+        body {
+            margin: 0;
+            background-color: white;
+        }
+
+        .menu-principal {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 14px 20px;
+            background-color: blue;
+        }
+
+        .logo {
+            margin: 0;
+            color: white;
+            font-size: 24px;
+        }
+
+        .links-menu {
+            display: flex;
+            gap: 16px;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .links-menu a {
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            padding: 6px 10px;
+            border-radius: 6px;
+        }
+
+        .links-menu a:hover {
+            background-color: aqua;
+        }
+
+        @media (max-width: 768px) {
+            .menu-principal {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 12px;
+            }
+
+            .links-menu {
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class="topo-site">
+        <nav class="menu-principal">
+            <h1 class="logo">Festival Cultural</h1>
+
+            <ul class="links-menu">
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#programacao">Programação</a></li>
+                <li><a href="#galeria">Galeria</a></li>
+                <li><a href="#Contato">Contato</a></li>
+            </ul>
+
+        </nav>
+    </header>
+
+</body>
+
+</html>
