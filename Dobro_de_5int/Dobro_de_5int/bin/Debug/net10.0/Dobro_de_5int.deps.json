@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Dobro_de_5int/1.0.0": {
+        "runtime": {
+          "Dobro_de_5int.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dobro_de_5int/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

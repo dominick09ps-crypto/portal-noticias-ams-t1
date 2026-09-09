@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\bin\Debug\net10.0\Soma_de_1000int.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\bin\Debug\net10.0\Soma_de_1000int.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\bin\Debug\net10.0\Soma_de_1000int.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\bin\Debug\net10.0\Soma_de_1000int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\bin\Debug\net10.0\Soma_de_1000int.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\Soma_de_1000int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\Soma_de_1000int.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\Soma_de_1000int.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\Soma_de_1000int.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\Soma_de_1000int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\refint\Soma_de_1000int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\Soma_de_1000int.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\Soma_de_1000int.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Soma_de_1000int\Soma_de_1000int\obj\Debug\net10.0\ref\Soma_de_1000int.dll

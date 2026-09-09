@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "7int_par,quadrado_impar,cubo/1.0.0": {
+        "runtime": {
+          "7int_par,quadrado_impar,cubo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7int_par,quadrado_impar,cubo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

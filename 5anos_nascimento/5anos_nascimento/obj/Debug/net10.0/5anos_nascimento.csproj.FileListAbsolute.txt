@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\bin\Debug\net10.0\5anos_nascimento.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\bin\Debug\net10.0\5anos_nascimento.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\bin\Debug\net10.0\5anos_nascimento.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\bin\Debug\net10.0\5anos_nascimento.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\bin\Debug\net10.0\5anos_nascimento.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\5anos_nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\5anos_nascimento.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\5anos_nascimento.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\5anos_nascimento.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\5anos_nascimento.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\refint\5anos_nascimento.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\5anos_nascimento.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\5anos_nascimento.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\5anos_nascimento\5anos_nascimento\obj\Debug\net10.0\ref\5anos_nascimento.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\bin\Debug\net10.0\15int_par_ou_impar.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\bin\Debug\net10.0\15int_par_ou_impar.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\bin\Debug\net10.0\15int_par_ou_impar.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\bin\Debug\net10.0\15int_par_ou_impar.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\bin\Debug\net10.0\15int_par_ou_impar.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\15int_par_ou_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\15int_par_ou_impar.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\15int_par_ou_impar.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\15int_par_ou_impar.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\15int_par_ou_impar.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\refint\15int_par_ou_impar.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\15int_par_ou_impar.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\15int_par_ou_impar.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\15int_par_ou_impar\15int_par_ou_impar\obj\Debug\net10.0\ref\15int_par_ou_impar.dll

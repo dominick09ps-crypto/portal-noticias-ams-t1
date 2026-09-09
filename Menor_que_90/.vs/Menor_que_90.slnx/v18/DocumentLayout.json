@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Menor_que_90\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6F7256-D7B2-4D77-9CE8-BFDDD69A056A}|Menor_que_90\\Menor_que_90.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\menor_que_90\\menor_que_90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6F7256-D7B2-4D77-9CE8-BFDDD69A056A}|Menor_que_90\\Menor_que_90.csproj|solutionrelative:menor_que_90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Menor_que_90\\Menor_que_90\\Program.cs",
+              "RelativeDocumentMoniker": "Menor_que_90\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Menor_que_90\\Menor_que_90\\Program.cs",
+              "RelativeToolTip": "Menor_que_90\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:18:50.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

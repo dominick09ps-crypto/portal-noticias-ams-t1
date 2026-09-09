@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Impar,decrescente_par,soma/1.0.0": {
+        "runtime": {
+          "Impar,decrescente_par,soma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Impar,decrescente_par,soma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\bin\Debug\net10.0\Dobro_de_5int.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\bin\Debug\net10.0\Dobro_de_5int.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\bin\Debug\net10.0\Dobro_de_5int.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\bin\Debug\net10.0\Dobro_de_5int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\bin\Debug\net10.0\Dobro_de_5int.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\Dobro_de_5int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\Dobro_de_5int.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\Dobro_de_5int.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\Dobro_de_5int.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\Dobro_de_5int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\refint\Dobro_de_5int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\Dobro_de_5int.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\Dobro_de_5int.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_de_5int\Dobro_de_5int\obj\Debug\net10.0\ref\Dobro_de_5int.dll

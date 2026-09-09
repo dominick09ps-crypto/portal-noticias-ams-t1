@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\refint\Tabuada.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Tabuada\Tabuada\obj\Debug\net10.0\ref\Tabuada.dll

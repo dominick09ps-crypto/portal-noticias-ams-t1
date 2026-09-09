@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Menor_que_90/1.0.0": {
+        "runtime": {
+          "Menor_que_90.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Menor_que_90/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

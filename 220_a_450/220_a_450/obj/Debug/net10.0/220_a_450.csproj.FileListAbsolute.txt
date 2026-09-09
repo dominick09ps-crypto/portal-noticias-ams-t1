@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\bin\Debug\net10.0\220_a_450.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\bin\Debug\net10.0\220_a_450.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\bin\Debug\net10.0\220_a_450.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\bin\Debug\net10.0\220_a_450.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\bin\Debug\net10.0\220_a_450.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\220_a_450.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\220_a_450.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\220_a_450.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\220_a_450.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\220_a_450.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\refint\220_a_450.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\220_a_450.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\220_a_450.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\220_a_450\220_a_450\obj\Debug\net10.0\ref\220_a_450.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Altura_e_sexo/1.0.0": {
+        "runtime": {
+          "Altura_e_sexo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Altura_e_sexo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

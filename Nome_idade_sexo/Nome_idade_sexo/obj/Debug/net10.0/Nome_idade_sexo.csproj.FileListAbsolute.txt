@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\bin\Debug\net10.0\Nome_idade_sexo.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\bin\Debug\net10.0\Nome_idade_sexo.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\bin\Debug\net10.0\Nome_idade_sexo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\bin\Debug\net10.0\Nome_idade_sexo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\bin\Debug\net10.0\Nome_idade_sexo.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\Nome_idade_sexo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\Nome_idade_sexo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\Nome_idade_sexo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\Nome_idade_sexo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\Nome_idade_sexo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\refint\Nome_idade_sexo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\Nome_idade_sexo.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\Nome_idade_sexo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Nome_idade_sexo\Nome_idade_sexo\obj\Debug\net10.0\ref\Nome_idade_sexo.dll

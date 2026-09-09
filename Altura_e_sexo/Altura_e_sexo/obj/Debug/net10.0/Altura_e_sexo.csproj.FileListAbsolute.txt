@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\bin\Debug\net10.0\Altura_e_sexo.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\bin\Debug\net10.0\Altura_e_sexo.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\bin\Debug\net10.0\Altura_e_sexo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\bin\Debug\net10.0\Altura_e_sexo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\bin\Debug\net10.0\Altura_e_sexo.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\Altura_e_sexo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\Altura_e_sexo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\Altura_e_sexo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\Altura_e_sexo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\Altura_e_sexo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\refint\Altura_e_sexo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\Altura_e_sexo.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\Altura_e_sexo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Altura_e_sexo\Altura_e_sexo\obj\Debug\net10.0\ref\Altura_e_sexo.dll

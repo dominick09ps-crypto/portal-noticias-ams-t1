@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\15int_par_ou_impar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01402526-67BF-4696-8D8D-6799E86E8E53}|15int_par_ou_impar\\15int_par_ou_impar.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\15int_par_ou_impar\\15int_par_ou_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01402526-67BF-4696-8D8D-6799E86E8E53}|15int_par_ou_impar\\15int_par_ou_impar.csproj|solutionrelative:15int_par_ou_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\15int_par_ou_impar\\15int_par_ou_impar\\Program.cs",
+              "RelativeDocumentMoniker": "15int_par_ou_impar\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\15int_par_ou_impar\\15int_par_ou_impar\\Program.cs*",
+              "RelativeToolTip": "15int_par_ou_impar\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T17:42:58.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

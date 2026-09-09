@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Multiplos_de_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9214AD41-253A-4243-A262-99E5445AB7F9}|Multiplos_de_4\\Multiplos_de_4.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\multiplos_de_4\\multiplos_de_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9214AD41-253A-4243-A262-99E5445AB7F9}|Multiplos_de_4\\Multiplos_de_4.csproj|solutionrelative:multiplos_de_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Multiplos_de_4\\Multiplos_de_4\\Program.cs",
+              "RelativeDocumentMoniker": "Multiplos_de_4\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Multiplos_de_4\\Multiplos_de_4\\Program.cs",
+              "RelativeToolTip": "Multiplos_de_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T19:22:48.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

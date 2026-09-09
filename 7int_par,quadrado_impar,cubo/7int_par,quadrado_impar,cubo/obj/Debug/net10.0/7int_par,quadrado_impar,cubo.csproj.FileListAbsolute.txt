@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\bin\Debug\net10.0\7int_par,quadrado_impar,cubo.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\bin\Debug\net10.0\7int_par,quadrado_impar,cubo.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\bin\Debug\net10.0\7int_par,quadrado_impar,cubo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\bin\Debug\net10.0\7int_par,quadrado_impar,cubo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\bin\Debug\net10.0\7int_par,quadrado_impar,cubo.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\7int_par,quadrado_impar,cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\7int_par,quadrado_impar,cubo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\7int_par,quadrado_impar,cubo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\7int_par,quadrado_impar,cubo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\7int_par,quadrado_impar,cubo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\refint\7int_par,quadrado_impar,cubo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\7int_par,quadrado_impar,cubo.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\7int_par,quadrado_impar,cubo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\7int_par,quadrado_impar,cubo\7int_par,quadrado_impar,cubo\obj\Debug\net10.0\ref\7int_par,quadrado_impar,cubo.dll

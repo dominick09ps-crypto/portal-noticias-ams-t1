@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\bin\Debug\net10.0\Menor_que_90.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\bin\Debug\net10.0\Menor_que_90.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\bin\Debug\net10.0\Menor_que_90.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\bin\Debug\net10.0\Menor_que_90.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\bin\Debug\net10.0\Menor_que_90.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\Menor_que_90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\Menor_que_90.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\Menor_que_90.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\Menor_que_90.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\Menor_que_90.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\refint\Menor_que_90.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\Menor_que_90.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\Menor_que_90.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Menor_que_90\Menor_que_90\obj\Debug\net10.0\ref\Menor_que_90.dll

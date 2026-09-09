@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\bin\Debug\net10.0\Media_de_5alunos.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\bin\Debug\net10.0\Media_de_5alunos.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\bin\Debug\net10.0\Media_de_5alunos.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\bin\Debug\net10.0\Media_de_5alunos.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\bin\Debug\net10.0\Media_de_5alunos.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\Media_de_5alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\Media_de_5alunos.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\Media_de_5alunos.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\Media_de_5alunos.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\Media_de_5alunos.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\refint\Media_de_5alunos.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\Media_de_5alunos.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\Media_de_5alunos.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Media_de_5alunos\Media_de_5alunos\obj\Debug\net10.0\ref\Media_de_5alunos.dll

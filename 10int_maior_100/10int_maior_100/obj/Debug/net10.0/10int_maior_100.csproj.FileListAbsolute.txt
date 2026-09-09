@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\bin\Debug\net10.0\10int_maior_100.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\bin\Debug\net10.0\10int_maior_100.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\bin\Debug\net10.0\10int_maior_100.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\bin\Debug\net10.0\10int_maior_100.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\bin\Debug\net10.0\10int_maior_100.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\10int_maior_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\10int_maior_100.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\10int_maior_100.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\10int_maior_100.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\10int_maior_100.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\refint\10int_maior_100.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\10int_maior_100.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\10int_maior_100.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\10int_maior_100\10int_maior_100\obj\Debug\net10.0\ref\10int_maior_100.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\bin\Debug\net10.0\4idades.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\bin\Debug\net10.0\4idades.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\bin\Debug\net10.0\4idades.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\bin\Debug\net10.0\4idades.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\bin\Debug\net10.0\4idades.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\4idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\4idades.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\4idades.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\4idades.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\4idades.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\refint\4idades.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\4idades.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\4idades.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\4idades\4idades\obj\Debug\net10.0\ref\4idades.dll

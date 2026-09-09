@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\bin\Debug\net10.0\10positivo_10negativo.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\bin\Debug\net10.0\10positivo_10negativo.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\bin\Debug\net10.0\10positivo_10negativo.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\bin\Debug\net10.0\10positivo_10negativo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\bin\Debug\net10.0\10positivo_10negativo.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\10positivo_10negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\10positivo_10negativo.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\10positivo_10negativo.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\10positivo_10negativo.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\10positivo_10negativo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\refint\10positivo_10negativo.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\10positivo_10negativo.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\10positivo_10negativo.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\10positivo_10negativo\10positivo_10negativo\obj\Debug\net10.0\ref\10positivo_10negativo.dll

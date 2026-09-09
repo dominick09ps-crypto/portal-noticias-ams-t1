@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Quadrados_n\u00FAmeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0566C7E4-107C-00E9-36A7-2121C9C00E6C}|Quadrados_n\u00FAmeros\\Quadrados_n\u00FAmeros.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\quadrados_n\u00FAmeros\\quadrados_n\u00FAmeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0566C7E4-107C-00E9-36A7-2121C9C00E6C}|Quadrados_n\u00FAmeros\\Quadrados_n\u00FAmeros.csproj|solutionrelative:quadrados_n\u00FAmeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Quadrados_n\u00FAmeros\\Quadrados_n\u00FAmeros\\Program.cs",
+              "RelativeDocumentMoniker": "Quadrados_n\u00FAmeros\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Quadrados_n\u00FAmeros\\Quadrados_n\u00FAmeros\\Program.cs",
+              "RelativeToolTip": "Quadrados_n\u00FAmeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T17:09:14.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

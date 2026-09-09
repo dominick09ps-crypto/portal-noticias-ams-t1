@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\bin\Debug\net10.0\Par_a_800.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\bin\Debug\net10.0\Par_a_800.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\bin\Debug\net10.0\Par_a_800.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\bin\Debug\net10.0\Par_a_800.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\bin\Debug\net10.0\Par_a_800.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\Par_a_800.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\Par_a_800.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\Par_a_800.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\Par_a_800.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\Par_a_800.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\refint\Par_a_800.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\Par_a_800.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\Par_a_800.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Par_a_800\Par_a_800\obj\Debug\net10.0\ref\Par_a_800.dll

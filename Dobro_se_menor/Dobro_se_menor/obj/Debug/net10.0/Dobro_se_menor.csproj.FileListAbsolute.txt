@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\bin\Debug\net10.0\Dobro_se_menor.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\bin\Debug\net10.0\Dobro_se_menor.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\bin\Debug\net10.0\Dobro_se_menor.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\bin\Debug\net10.0\Dobro_se_menor.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\bin\Debug\net10.0\Dobro_se_menor.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\Dobro_se_menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\Dobro_se_menor.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\Dobro_se_menor.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\Dobro_se_menor.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\Dobro_se_menor.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\refint\Dobro_se_menor.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\Dobro_se_menor.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\Dobro_se_menor.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Dobro_se_menor\Dobro_se_menor\obj\Debug\net10.0\ref\Dobro_se_menor.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\bin\Debug\net10.0\Quantidade_de_par_15int.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\bin\Debug\net10.0\Quantidade_de_par_15int.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\bin\Debug\net10.0\Quantidade_de_par_15int.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\bin\Debug\net10.0\Quantidade_de_par_15int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\bin\Debug\net10.0\Quantidade_de_par_15int.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\Quantidade_de_par_15int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\Quantidade_de_par_15int.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\Quantidade_de_par_15int.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\Quantidade_de_par_15int.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\Quantidade_de_par_15int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\refint\Quantidade_de_par_15int.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\Quantidade_de_par_15int.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\Quantidade_de_par_15int.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Quantidade_de_par_15int\Quantidade_de_par_15int\obj\Debug\net10.0\ref\Quantidade_de_par_15int.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\bin\Debug\net10.0\Maiores_idade.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\bin\Debug\net10.0\Maiores_idade.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\bin\Debug\net10.0\Maiores_idade.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\bin\Debug\net10.0\Maiores_idade.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\bin\Debug\net10.0\Maiores_idade.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\Maiores_idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\Maiores_idade.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\Maiores_idade.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\Maiores_idade.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\Maiores_idade.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\refint\Maiores_idade.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\Maiores_idade.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\Maiores_idade.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Maiores_idade\Maiores_idade\obj\Debug\net10.0\ref\Maiores_idade.dll

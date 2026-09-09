@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\bin\Debug\net10.0\3int_x_6.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\bin\Debug\net10.0\3int_x_6.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\bin\Debug\net10.0\3int_x_6.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\bin\Debug\net10.0\3int_x_6.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\bin\Debug\net10.0\3int_x_6.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\3int_x_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\3int_x_6.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\3int_x_6.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\3int_x_6.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\3int_x_6.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\refint\3int_x_6.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\3int_x_6.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\3int_x_6.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\3int_x_6\3int_x_6\obj\Debug\net10.0\ref\3int_x_6.dll

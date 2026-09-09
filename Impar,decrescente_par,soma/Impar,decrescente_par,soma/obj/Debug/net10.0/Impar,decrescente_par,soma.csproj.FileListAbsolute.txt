@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\bin\Debug\net10.0\Impar,decrescente_par,soma.exe
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\bin\Debug\net10.0\Impar,decrescente_par,soma.deps.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\bin\Debug\net10.0\Impar,decrescente_par,soma.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\bin\Debug\net10.0\Impar,decrescente_par,soma.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\bin\Debug\net10.0\Impar,decrescente_par,soma.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\Impar,decrescente_par,soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\Impar,decrescente_par,soma.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\Impar,decrescente_par,soma.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\Impar,decrescente_par,soma.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\Impar,decrescente_par,soma.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\refint\Impar,decrescente_par,soma.dll
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\Impar,decrescente_par,soma.pdb
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\Impar,decrescente_par,soma.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\PAL\Impar,decrescente_par,soma\Impar,decrescente_par,soma\obj\Debug\net10.0\ref\Impar,decrescente_par,soma.dll
