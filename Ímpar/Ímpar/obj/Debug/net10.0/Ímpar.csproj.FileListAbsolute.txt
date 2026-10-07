@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\bin\Debug\net10.0\Ímpar.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\bin\Debug\net10.0\Ímpar.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\bin\Debug\net10.0\Ímpar.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\bin\Debug\net10.0\Ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\bin\Debug\net10.0\Ímpar.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\Ímpar.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\Ímpar.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\Ímpar.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\Ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\refint\Ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\Ímpar.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\Ímpar.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Ímpar\Ímpar\obj\Debug\net10.0\ref\Ímpar.dll

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\bin\Debug\net10.0\Maior_30.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\bin\Debug\net10.0\Maior_30.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\bin\Debug\net10.0\Maior_30.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\bin\Debug\net10.0\Maior_30.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\bin\Debug\net10.0\Maior_30.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\Maior_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\Maior_30.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\Maior_30.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\Maior_30.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\Maior_30.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\Maior_30.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\refint\Maior_30.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\Maior_30.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\Maior_30.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Maior_30\Maior_30\obj\Debug\net10.0\ref\Maior_30.dll

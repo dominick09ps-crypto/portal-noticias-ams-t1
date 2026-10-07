@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\bin\Debug\net10.0\Exemplo3_Vetor.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\bin\Debug\net10.0\Exemplo3_Vetor.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\bin\Debug\net10.0\Exemplo3_Vetor.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\bin\Debug\net10.0\Exemplo3_Vetor.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\bin\Debug\net10.0\Exemplo3_Vetor.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\Exemplo3_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\Exemplo3_Vetor.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\Exemplo3_Vetor.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\Exemplo3_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\Exemplo3_Vetor.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\Exemplo3_Vetor.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\refint\Exemplo3_Vetor.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\Exemplo3_Vetor.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\Exemplo3_Vetor.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo3_Vetor\Exemplo3_Vetor\obj\Debug\net10.0\ref\Exemplo3_Vetor.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Vetor_nome_idade_sexo/1.0.0": {
+        "runtime": {
+          "Vetor_nome_idade_sexo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vetor_nome_idade_sexo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

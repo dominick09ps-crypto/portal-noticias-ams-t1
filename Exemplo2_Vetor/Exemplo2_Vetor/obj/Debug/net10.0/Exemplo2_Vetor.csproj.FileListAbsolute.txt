@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\bin\Debug\net10.0\Exemplo2_Vetor.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\bin\Debug\net10.0\Exemplo2_Vetor.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\bin\Debug\net10.0\Exemplo2_Vetor.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\bin\Debug\net10.0\Exemplo2_Vetor.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\bin\Debug\net10.0\Exemplo2_Vetor.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\Exemplo2_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\Exemplo2_Vetor.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\Exemplo2_Vetor.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\Exemplo2_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\Exemplo2_Vetor.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\Exemplo2_Vetor.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\refint\Exemplo2_Vetor.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\Exemplo2_Vetor.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\Exemplo2_Vetor.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Exemplo2_Vetor\Exemplo2_Vetor\obj\Debug\net10.0\ref\Exemplo2_Vetor.dll

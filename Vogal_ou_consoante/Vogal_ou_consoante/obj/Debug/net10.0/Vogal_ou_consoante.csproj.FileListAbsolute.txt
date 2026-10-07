@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\bin\Debug\net10.0\Vogal_ou_consoante.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\bin\Debug\net10.0\Vogal_ou_consoante.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\bin\Debug\net10.0\Vogal_ou_consoante.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\bin\Debug\net10.0\Vogal_ou_consoante.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\bin\Debug\net10.0\Vogal_ou_consoante.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\Vogal_ou_consoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\Vogal_ou_consoante.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\Vogal_ou_consoante.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\Vogal_ou_consoante.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\Vogal_ou_consoante.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\Vogal_ou_consoante.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\refint\Vogal_ou_consoante.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\Vogal_ou_consoante.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\Vogal_ou_consoante.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vogal_ou_consoante\Vogal_ou_consoante\obj\Debug\net10.0\ref\Vogal_ou_consoante.dll

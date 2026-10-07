@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Vetor_\u00EDmpar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{830E4171-3377-41A0-9075-E1F1FCFB2C81}|Vetor_\u00EDmpar\\Vetor_\u00EDmpar.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\vetor_\u00EDmpar\\vetor_\u00EDmpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830E4171-3377-41A0-9075-E1F1FCFB2C81}|Vetor_\u00EDmpar\\Vetor_\u00EDmpar.csproj|solutionrelative:vetor_\u00EDmpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Vetor_\u00EDmpar\\Vetor_\u00EDmpar\\Program.cs",
+              "RelativeDocumentMoniker": "Vetor_\u00EDmpar\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Vetor_\u00EDmpar\\Vetor_\u00EDmpar\\Program.cs",
+              "RelativeToolTip": "Vetor_\u00EDmpar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T19:46:58.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

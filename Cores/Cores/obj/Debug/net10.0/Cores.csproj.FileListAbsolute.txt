@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\bin\Debug\net10.0\Cores.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\bin\Debug\net10.0\Cores.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\bin\Debug\net10.0\Cores.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\bin\Debug\net10.0\Cores.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\bin\Debug\net10.0\Cores.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\Cores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\Cores.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\Cores.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\Cores.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\Cores.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\Cores.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\refint\Cores.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\Cores.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\Cores.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cores\Cores\obj\Debug\net10.0\ref\Cores.dll

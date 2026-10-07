@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\bin\Debug\net10.0\Par_e_ímpar.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\bin\Debug\net10.0\Par_e_ímpar.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\bin\Debug\net10.0\Par_e_ímpar.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\bin\Debug\net10.0\Par_e_ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\bin\Debug\net10.0\Par_e_ímpar.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\Par_e_ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\Par_e_ímpar.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\Par_e_ímpar.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\Par_e_ímpar.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\Par_e_ímpar.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\Par_e_ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\refint\Par_e_ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\Par_e_ímpar.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\Par_e_ímpar.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Par_e_ímpar\Par_e_ímpar\obj\Debug\net10.0\ref\Par_e_ímpar.dll

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\bin\Debug\net10.0\Vetor_ímpar.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\bin\Debug\net10.0\Vetor_ímpar.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\bin\Debug\net10.0\Vetor_ímpar.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\bin\Debug\net10.0\Vetor_ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\bin\Debug\net10.0\Vetor_ímpar.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\Vetor_ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\Vetor_ímpar.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\Vetor_ímpar.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\Vetor_ímpar.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\Vetor_ímpar.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\Vetor_ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\refint\Vetor_ímpar.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\Vetor_ímpar.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\Vetor_ímpar.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Vetor_ímpar\Vetor_ímpar\obj\Debug\net10.0\ref\Vetor_ímpar.dll

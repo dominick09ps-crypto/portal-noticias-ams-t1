@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Vetor_nome_idade_sexo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1D339-0A5F-4D07-B2AF-4EAA608EF4B1}|Vetor_nome_idade_sexo\\Vetor_nome_idade_sexo.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\vetor_nome_idade_sexo\\vetor_nome_idade_sexo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA1D339-0A5F-4D07-B2AF-4EAA608EF4B1}|Vetor_nome_idade_sexo\\Vetor_nome_idade_sexo.csproj|solutionrelative:vetor_nome_idade_sexo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Vetor_nome_idade_sexo\\Vetor_nome_idade_sexo\\Program.cs",
+              "RelativeDocumentMoniker": "Vetor_nome_idade_sexo\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Vetor_nome_idade_sexo\\Vetor_nome_idade_sexo\\Program.cs*",
+              "RelativeToolTip": "Vetor_nome_idade_sexo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:26:41.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

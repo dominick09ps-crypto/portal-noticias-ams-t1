@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\bin\Debug\net10.0\Jogador_nome.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\bin\Debug\net10.0\Jogador_nome.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\bin\Debug\net10.0\Jogador_nome.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\bin\Debug\net10.0\Jogador_nome.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\bin\Debug\net10.0\Jogador_nome.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\Jogador_nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\Jogador_nome.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\Jogador_nome.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\Jogador_nome.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\Jogador_nome.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\Jogador_nome.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\refint\Jogador_nome.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\Jogador_nome.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\Jogador_nome.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Jogador_nome\Jogador_nome\obj\Debug\net10.0\ref\Jogador_nome.dll

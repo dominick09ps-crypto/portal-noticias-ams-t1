@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\bin\Debug\net10.0\Elementos.exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\bin\Debug\net10.0\Elementos.deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\bin\Debug\net10.0\Elementos.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\bin\Debug\net10.0\Elementos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\bin\Debug\net10.0\Elementos.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\Elementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\Elementos.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\Elementos.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\Elementos.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\Elementos.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\Elementos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\refint\Elementos.dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\Elementos.pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\Elementos.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Elementos\Elementos\obj\Debug\net10.0\ref\Elementos.dll
