@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\\u00CDmpar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0FD933C-38A9-4044-B3C1-834AAAB572D2}|\u00CDmpar\\\u00CDmpar.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\\u00EDmpar\\\u00EDmpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0FD933C-38A9-4044-B3C1-834AAAB572D2}|\u00CDmpar\\\u00CDmpar.csproj|solutionrelative:\u00EDmpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4ED2E73-17B8-11E4-232C-F388568C5E35}|\u00CDmpar\\\u00CDmpar.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\\u00EDmpar\\\u00EDmpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ED2E73-17B8-11E4-232C-F388568C5E35}|\u00CDmpar\\\u00CDmpar.csproj|solutionrelative:\u00EDmpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "\u00CDmpar\\Program.cs",
               "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\\u00CDmpar\\\u00CDmpar\\Program.cs",
               "RelativeToolTip": "\u00CDmpar\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T19:31:05.77Z",
               "EditorCaption": ""

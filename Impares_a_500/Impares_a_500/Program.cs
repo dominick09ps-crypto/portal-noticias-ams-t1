@@ -1,11 +1,11 @@
-﻿int par, cont = 1;
-while (cont <= 500)
+﻿int impar, cont = 500;
+while (cont >= 1)
 {
-    par = cont % 2;
+    impar = cont % 2;
 
-    if (par != 0)
+    if (impar != 0)
     {
         Console.WriteLine("Os números ímpares são: " + cont);
     }
-    cont++;
+    cont--;
 }

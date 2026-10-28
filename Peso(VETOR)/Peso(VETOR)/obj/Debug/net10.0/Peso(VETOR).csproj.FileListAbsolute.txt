@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\bin\Debug\net10.0\Peso(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\bin\Debug\net10.0\Peso(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\bin\Debug\net10.0\Peso(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\bin\Debug\net10.0\Peso(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\bin\Debug\net10.0\Peso(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\Peso(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\Peso(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\Peso(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\Peso(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\Peso(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\Peso(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\refint\Peso(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\Peso(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\Peso(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Peso(VETOR)\Peso(VETOR)\obj\Debug\net10.0\ref\Peso(VETOR).dll

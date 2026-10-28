@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\bin\Debug\net10.0\Impares(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\bin\Debug\net10.0\Impares(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\bin\Debug\net10.0\Impares(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\bin\Debug\net10.0\Impares(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\bin\Debug\net10.0\Impares(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\Impares(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\Impares(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\Impares(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\Impares(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\Impares(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\Impares(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\refint\Impares(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\Impares(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\Impares(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Impares(VETOR)\Impares(VETOR)\obj\Debug\net10.0\ref\Impares(VETOR).dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Impares_a_500")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66de405dd0a7832babc59af6c80a30ae7d6193de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Impares_a_500")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Impares_a_500")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

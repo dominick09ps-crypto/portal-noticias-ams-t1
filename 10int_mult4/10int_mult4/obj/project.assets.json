@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\10int_mult4\\10int_mult4\\10int_mult4.csproj",
+      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\10int_mult4\\10int_mult4\\10int_mult4.csproj",
       "projectName": "10int_mult4",
-      "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\10int_mult4\\10int_mult4\\10int_mult4.csproj",
+      "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\10int_mult4\\10int_mult4\\10int_mult4.csproj",
       "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\10int_mult4\\10int_mult4\\obj\\",
+      "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\10int_mult4\\10int_mult4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\bin\Debug\net10.0\Sexo_altura(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\bin\Debug\net10.0\Sexo_altura(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\bin\Debug\net10.0\Sexo_altura(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\bin\Debug\net10.0\Sexo_altura(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\bin\Debug\net10.0\Sexo_altura(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\Sexo_altura(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\Sexo_altura(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\Sexo_altura(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\Sexo_altura(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\Sexo_altura(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\Sexo_altura(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\refint\Sexo_altura(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\Sexo_altura(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\Sexo_altura(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Sexo_altura(VETOR)\Sexo_altura(VETOR)\obj\Debug\net10.0\ref\Sexo_altura(VETOR).dll

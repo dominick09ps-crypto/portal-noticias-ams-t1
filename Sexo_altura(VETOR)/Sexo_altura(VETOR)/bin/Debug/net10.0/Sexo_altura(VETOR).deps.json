@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sexo_altura(VETOR)/1.0.0": {
+        "runtime": {
+          "Sexo_altura(VETOR).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sexo_altura(VETOR)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Soma_de_1000int.csproj": {}
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Soma_de_1000int.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Soma_de_1000int.csproj": {
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Soma_de_1000int.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Soma_de_1000int.csproj",
+        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Soma_de_1000int.csproj",
         "projectName": "Soma_de_1000int",
-        "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Soma_de_1000int.csproj",
+        "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Soma_de_1000int.csproj",
         "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Soma_de_1000int\\Soma_de_1000int\\obj\\",
+        "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Soma_de_1000int\\Soma_de_1000int\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

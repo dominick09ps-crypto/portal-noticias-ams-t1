@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\Positivos_e_negativos(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\Positivos_e_negativos(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\Positivos_e_negativos(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\Positivos_e_negativos(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\Positivos_e_negativos(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\bin\Debug\net10.0\Positivos_e_negativos(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\bin\Debug\net10.0\Positivos_e_negativos(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\bin\Debug\net10.0\Positivos_e_negativos(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\bin\Debug\net10.0\Positivos_e_negativos(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\bin\Debug\net10.0\Positivos_e_negativos(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\Positivos_e_negativos(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\refint\Positivos_e_negativos(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\Positivos_e_negativos(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\Positivos_e_negativos(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Positivos_e_negativos(VETOR)\Positivos_e_negativos(VETOR)\obj\Debug\net10.0\ref\Positivos_e_negativos(VETOR).dll

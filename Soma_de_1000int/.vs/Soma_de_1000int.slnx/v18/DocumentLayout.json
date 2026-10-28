@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Soma_de_1000int\\",
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Soma_de_1000int\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4838D38E-DDE4-4F22-A826-9075E547006B}|Soma_de_1000int\\Soma_de_1000int.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\soma_de_1000int\\soma_de_1000int\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4838D38E-DDE4-4F22-A826-9075E547006B}|Soma_de_1000int\\Soma_de_1000int.csproj|solutionrelative:soma_de_1000int\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78A1D6FB-4932-C01A-8AAC-6D60FB34AFAD}|Soma_de_1000int\\Soma_de_1000int.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\soma_de_1000int\\soma_de_1000int\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A1D6FB-4932-C01A-8AAC-6D60FB34AFAD}|Soma_de_1000int\\Soma_de_1000int.csproj|solutionrelative:soma_de_1000int\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Program.cs",
               "RelativeDocumentMoniker": "Soma_de_1000int\\Program.cs",
-              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Soma_de_1000int\\Soma_de_1000int\\Program.cs",
               "RelativeToolTip": "Soma_de_1000int\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

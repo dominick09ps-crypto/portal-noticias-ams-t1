@@ -15,6 +15,10 @@ for (int i = 0; i < 5; i++)
     {
         Console.WriteLine(nome[i] + " da posição " + i + "°, tem mais de 30 anos");
     }
+    else if (idade[i] == 30)
+    {
+        Console.WriteLine(nome[i] + " da posição " + i + "°, tem 30 anos");
+    }
     else
     {
         Console.WriteLine(nome[i] + " da posição " + i + "°, tem menos de 30 anos");

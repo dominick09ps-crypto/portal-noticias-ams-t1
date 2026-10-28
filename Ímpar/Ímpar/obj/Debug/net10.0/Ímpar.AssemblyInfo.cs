@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ímpar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+747ac8cb6a63b39905ddf7aed9b685c2ef05f988")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66de405dd0a7832babc59af6c80a30ae7d6193de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ímpar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ímpar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

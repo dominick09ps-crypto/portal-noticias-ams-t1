@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Positivos_e_negativos(VETOR)/1.0.0": {
+        "runtime": {
+          "Positivos_e_negativos(VETOR).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Positivos_e_negativos(VETOR)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

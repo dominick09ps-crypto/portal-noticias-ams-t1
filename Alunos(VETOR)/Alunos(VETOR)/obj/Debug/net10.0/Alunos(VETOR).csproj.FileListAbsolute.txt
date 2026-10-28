@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\bin\Debug\net10.0\Alunos(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\bin\Debug\net10.0\Alunos(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\bin\Debug\net10.0\Alunos(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\bin\Debug\net10.0\Alunos(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\bin\Debug\net10.0\Alunos(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\Alunos(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\Alunos(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\Alunos(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\Alunos(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\Alunos(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\Alunos(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\refint\Alunos(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\Alunos(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\Alunos(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Alunos(VETOR)\Alunos(VETOR)\obj\Debug\net10.0\ref\Alunos(VETOR).dll

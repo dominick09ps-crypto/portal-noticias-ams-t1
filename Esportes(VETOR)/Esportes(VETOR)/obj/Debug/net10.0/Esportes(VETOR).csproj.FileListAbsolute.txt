@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\bin\Debug\net10.0\Esportes(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\bin\Debug\net10.0\Esportes(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\bin\Debug\net10.0\Esportes(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\bin\Debug\net10.0\Esportes(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\bin\Debug\net10.0\Esportes(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\Esportes(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\Esportes(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\Esportes(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\Esportes(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\Esportes(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\Esportes(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\refint\Esportes(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\Esportes(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\Esportes(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Esportes(VETOR)\Esportes(VETOR)\obj\Debug\net10.0\ref\Esportes(VETOR).dll

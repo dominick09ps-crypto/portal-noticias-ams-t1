@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\bin\Debug\net10.0\Mult3(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\bin\Debug\net10.0\Mult3(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\bin\Debug\net10.0\Mult3(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\bin\Debug\net10.0\Mult3(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\bin\Debug\net10.0\Mult3(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\Mult3(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\Mult3(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\Mult3(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\Mult3(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\Mult3(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\Mult3(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\refint\Mult3(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\Mult3(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\Mult3(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Mult3(VETOR)\Mult3(VETOR)\obj\Debug\net10.0\ref\Mult3(VETOR).dll

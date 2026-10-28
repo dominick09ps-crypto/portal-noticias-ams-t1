@@ -1,5 +1,5 @@
 ﻿int soma, cont = 1;
-while (cont <= 1000)
+while (cont <= 300)
 {
     soma = cont + cont;
     Console.WriteLine("A soma do número é: " + soma);

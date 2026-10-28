@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Tabuada\\Tabuada\\Tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Tabuada\\Tabuada\\Tabuada.csproj",
       "projectName": "Tabuada",
-      "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Tabuada\\Tabuada\\Tabuada.csproj",
+      "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Tabuada\\Tabuada\\Tabuada.csproj",
       "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\Tabuada\\Tabuada\\obj\\",
+      "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Tabuada\\Tabuada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

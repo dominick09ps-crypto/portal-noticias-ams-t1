@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Cores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3849E73B-BF8A-43A3-AEE6-6C77C9537B6C}|Cores\\Cores.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\cores\\cores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3849E73B-BF8A-43A3-AEE6-6C77C9537B6C}|Cores\\Cores.csproj|solutionrelative:cores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{158CC3E1-08D4-D791-E0E1-C40D6C5337F5}|Cores\\Cores.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\cores\\cores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158CC3E1-08D4-D791-E0E1-C40D6C5337F5}|Cores\\Cores.csproj|solutionrelative:cores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Cores\\Program.cs",
               "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Cores\\Cores\\Program.cs",
               "RelativeToolTip": "Cores\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T18:18:20.469Z",
               "EditorCaption": ""
