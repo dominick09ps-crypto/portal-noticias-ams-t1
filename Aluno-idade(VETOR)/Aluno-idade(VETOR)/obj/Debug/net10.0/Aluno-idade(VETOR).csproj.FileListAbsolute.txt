@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\bin\Debug\net10.0\Aluno-idade(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\bin\Debug\net10.0\Aluno-idade(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\bin\Debug\net10.0\Aluno-idade(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\bin\Debug\net10.0\Aluno-idade(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\bin\Debug\net10.0\Aluno-idade(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\Aluno-idade(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\Aluno-idade(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\Aluno-idade(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\Aluno-idade(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\Aluno-idade(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\Aluno-idade(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\refint\Aluno-idade(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\Aluno-idade(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\Aluno-idade(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Aluno-idade(VETOR)\Aluno-idade(VETOR)\obj\Debug\net10.0\ref\Aluno-idade(VETOR).dll

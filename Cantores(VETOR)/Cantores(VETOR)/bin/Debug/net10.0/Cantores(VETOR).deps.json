@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Cantores(VETOR)/1.0.0": {
+        "runtime": {
+          "Cantores(VETOR).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cantores(VETOR)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

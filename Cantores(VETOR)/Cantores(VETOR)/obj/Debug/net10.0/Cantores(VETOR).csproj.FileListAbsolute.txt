@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\bin\Debug\net10.0\Cantores(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\bin\Debug\net10.0\Cantores(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\bin\Debug\net10.0\Cantores(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\bin\Debug\net10.0\Cantores(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\bin\Debug\net10.0\Cantores(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\Cantores(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\Cantores(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\Cantores(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\Cantores(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\Cantores(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\Cantores(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\refint\Cantores(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\Cantores(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\Cantores(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Cantores(VETOR)\Cantores(VETOR)\obj\Debug\net10.0\ref\Cantores(VETOR).dll

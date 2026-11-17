@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Idade-\u00EDmpar(VETOR)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A324CD-9779-428A-B8A0-C4013A52B294}|Idade-\u00EDmpar(VETOR)\\Idade-\u00EDmpar(VETOR).csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\idade-\u00EDmpar(vetor)\\idade-\u00EDmpar(vetor)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A324CD-9779-428A-B8A0-C4013A52B294}|Idade-\u00EDmpar(VETOR)\\Idade-\u00EDmpar(VETOR).csproj|solutionrelative:idade-\u00EDmpar(vetor)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Idade-\u00EDmpar(VETOR)\\Idade-\u00EDmpar(VETOR)\\Program.cs",
+              "RelativeDocumentMoniker": "Idade-\u00EDmpar(VETOR)\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Idade-\u00EDmpar(VETOR)\\Idade-\u00EDmpar(VETOR)\\Program.cs*",
+              "RelativeToolTip": "Idade-\u00EDmpar(VETOR)\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T19:40:01.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
