@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\bin\Debug\net10.0\Animal-raça(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\bin\Debug\net10.0\Animal-raça(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\bin\Debug\net10.0\Animal-raça(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\bin\Debug\net10.0\Animal-raça(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\bin\Debug\net10.0\Animal-raça(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\Animal-raça(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\Animal-raça(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\Animal-raça(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\Animal-raça(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\Animal-raça(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\Animal-raça(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\refint\Animal-raça(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\Animal-raça(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\Animal-raça(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Animal-raça(VETOR)\Animal-raça(VETOR)\obj\Debug\net10.0\ref\Animal-raça(VETOR).dll

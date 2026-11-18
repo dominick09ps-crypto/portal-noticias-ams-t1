@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\bin\Debug\net10.0\Nome-idade-peso(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\bin\Debug\net10.0\Nome-idade-peso(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\bin\Debug\net10.0\Nome-idade-peso(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\bin\Debug\net10.0\Nome-idade-peso(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\bin\Debug\net10.0\Nome-idade-peso(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\Nome-idade-peso(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\Nome-idade-peso(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\Nome-idade-peso(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\Nome-idade-peso(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\Nome-idade-peso(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\Nome-idade-peso(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\refint\Nome-idade-peso(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\Nome-idade-peso(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\Nome-idade-peso(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Nome-idade-peso(VETOR)\Nome-idade-peso(VETOR)\obj\Debug\net10.0\ref\Nome-idade-peso(VETOR).dll

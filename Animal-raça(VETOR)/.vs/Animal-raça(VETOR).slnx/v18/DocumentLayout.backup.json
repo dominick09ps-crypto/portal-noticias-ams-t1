@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Animal-ra\u00E7a(VETOR)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766BDBE1-1473-4170-682A-6FE81F5312EA}|Animal-ra\u00E7a(VETOR)\\Animal-ra\u00E7a(VETOR).csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\animal-ra\u00E7a(vetor)\\animal-ra\u00E7a(vetor)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766BDBE1-1473-4170-682A-6FE81F5312EA}|Animal-ra\u00E7a(VETOR)\\Animal-ra\u00E7a(VETOR).csproj|solutionrelative:animal-ra\u00E7a(vetor)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Animal-ra\u00E7a(VETOR)\\Animal-ra\u00E7a(VETOR)\\Program.cs",
+              "RelativeDocumentMoniker": "Animal-ra\u00E7a(VETOR)\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\PAL\\Animal-ra\u00E7a(VETOR)\\Animal-ra\u00E7a(VETOR)\\Program.cs",
+              "RelativeToolTip": "Animal-ra\u00E7a(VETOR)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T17:46:55.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

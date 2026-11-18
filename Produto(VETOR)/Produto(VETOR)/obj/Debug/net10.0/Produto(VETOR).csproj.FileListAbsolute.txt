@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\bin\Debug\net10.0\Produto(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\bin\Debug\net10.0\Produto(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\bin\Debug\net10.0\Produto(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\bin\Debug\net10.0\Produto(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\bin\Debug\net10.0\Produto(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\Produto(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\Produto(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\Produto(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\Produto(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\Produto(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\Produto(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\refint\Produto(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\Produto(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\Produto(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Produto(VETOR)\Produto(VETOR)\obj\Debug\net10.0\ref\Produto(VETOR).dll

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\Média(VETOR).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\Média(VETOR).AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\Média(VETOR).AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\Média(VETOR).csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\Média(VETOR).sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\bin\Debug\net10.0\Média(VETOR).exe
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\bin\Debug\net10.0\Média(VETOR).deps.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\bin\Debug\net10.0\Média(VETOR).runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\bin\Debug\net10.0\Média(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\bin\Debug\net10.0\Média(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\Média(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\refint\Média(VETOR).dll
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\Média(VETOR).pdb
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\Média(VETOR).genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\PAL\Média(VETOR)\Média(VETOR)\obj\Debug\net10.0\ref\Média(VETOR).dll
